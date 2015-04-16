@@ -26,9 +26,14 @@ proguard/
 # Log Files
 *.log
 
+# some files auto generated in MACOS
 .DS_Store
 proguard-project.txt
 project.properties
+.classpath
+.project
+.settings/
+
 
 
 
