@@ -25,3 +25,10 @@ proguard/
 
 # Log Files
 *.log
+
+.DS_Store
+proguard-project.txt
+project.properties
+
+
+
