@@ -16,6 +16,10 @@
         <activity
             android:name="com.charlesxiao.view.MainActivity"
             android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.charlesxiao.test.TestActivity"
+            android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
